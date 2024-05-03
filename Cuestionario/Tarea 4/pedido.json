@@ -14,7 +14,7 @@
       },
       "pago": {
         "método": "billetera virtual",
-        "monto_total": "12.000"
+        "monto_total": "$12.000"
       }
     }
   }

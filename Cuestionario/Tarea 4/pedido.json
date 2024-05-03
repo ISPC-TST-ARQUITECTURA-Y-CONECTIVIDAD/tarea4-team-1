@@ -1,0 +1,21 @@
+{
+    "pedido": {
+      "cliente": {
+        "nombre": "Ulises Ale",
+        "dirección": "9 de Julio 260, Coronel Moldes, Cordoba",
+        "telefono": "3582452523"
+      },
+      "orden": {
+        "pizza": {
+          "tamaño": "grande",
+          "ingredientes": ["queso extra", "pepperoni", "pimientos", "cebolla"]
+        },
+        "modo_de_entrega": "domicilio"
+      },
+      "pago": {
+        "método": "billetera virtual",
+        "monto_total": "12.000"
+      }
+    }
+  }
+  

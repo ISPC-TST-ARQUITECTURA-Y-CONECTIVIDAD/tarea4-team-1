@@ -1,7 +1,7 @@
 ![logo](/assets/BannerISPC.png)
 
 
-## ¿Qué es un Formato de datos JASON?, ¿Para qué se usan? Ejemplifique 
+## ¿Qué es un Formato de datos JSON?, ¿Para qué se usan? Ejemplifique 
 
 ![logo](/assets/json.png)
 
